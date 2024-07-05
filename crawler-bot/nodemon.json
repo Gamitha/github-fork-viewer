@@ -1,0 +1,17 @@
+{
+  "restartable": "rs",
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "watch": ["./"],
+  "ext": "ts",
+  "ignore": [
+    "bin/**/*.js",
+    "output/**/*.ts",
+    ".git",
+    "node_modules/**/node_modules"
+  ],
+  "execMap": {
+    "ts": "ts-node ./index.ts"
+  }
+}

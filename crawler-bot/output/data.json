@@ -1,0 +1,863 @@
+{
+  "repository": {
+    "name": "nestjsx crud",
+    "url": "https://github.com/nestjsx/crud/forks",
+    "profile": "https://github.com/nestjsx"
+  },
+  "stars": "0",
+  "forks": {
+    "count": 32,
+    "repositories": [
+      {
+        "repository": {
+          "name": "rewiko crud",
+          "url": "https://github.com/rewiko/crud",
+          "profile": "https://github.com/rewiko"
+        },
+        "stars": "49",
+        "forks": {
+          "count": 2,
+          "repositories": [
+            {
+              "repository": {
+                "name": "gid-oss dataui-nestjs-crud",
+                "url": "https://github.com/gid-oss/dataui-nestjs-crud",
+                "profile": "https://github.com/gid-oss"
+              },
+              "stars": "113",
+              "forks": {
+                "count": 19,
+                "repositories": [
+                  {
+                    "repository": {
+                      "name": "sg-milad dataui-nestjs-crud",
+                      "url": "https://github.com/sg-milad/dataui-nestjs-crud",
+                      "profile": "https://github.com/sg-milad"
+                    },
+                    "stars": "1",
+                    "forks": {
+                      "count": 0,
+                      "repositories": []
+                    },
+                    "issues": "0",
+                    "pullRequests": "0",
+                    "createdAt": "Created June 26, 2024 04:47",
+                    "updatedAt": "Updated June 26, 2024 12:28"
+                  },
+                  {
+                    "repository": {
+                      "name": "ZaidMaslouhi dataui-nestjs-crud",
+                      "url": "https://github.com/ZaidMaslouhi/dataui-nestjs-crud",
+                      "profile": "https://github.com/ZaidMaslouhi"
+                    },
+                    "stars": "0",
+                    "forks": {
+                      "count": 0,
+                      "repositories": []
+                    },
+                    "issues": "0",
+                    "pullRequests": "0",
+                    "createdAt": "Created March 8, 2024 13:15",
+                    "updatedAt": "Updated April 8, 2024 20:12"
+                  },
+                  {
+                    "repository": {
+                      "name": "yepes dataui-nestjs-crud",
+                      "url": "https://github.com/yepes/dataui-nestjs-crud",
+                      "profile": "https://github.com/yepes"
+                    },
+                    "stars": "0",
+                    "forks": {
+                      "count": 0,
+                      "repositories": []
+                    },
+                    "issues": "0",
+                    "pullRequests": "0",
+                    "createdAt": "Created September 5, 2022 06:58",
+                    "updatedAt": "Updated September 5, 2022 14:01"
+                  },
+                  {
+                    "repository": {
+                      "name": "unknowingknow dataui-nestjs-crud",
+                      "url": "https://github.com/unknowingknow/dataui-nestjs-crud",
+                      "profile": "https://github.com/unknowingknow"
+                    },
+                    "stars": "0",
+                    "forks": {
+                      "count": 0,
+                      "repositories": []
+                    },
+                    "issues": "0",
+                    "pullRequests": "0",
+                    "createdAt": "Created October 31, 2022 06:28",
+                    "updatedAt": "Updated October 31, 2022 13:33"
+                  },
+                  {
+                    "repository": {
+                      "name": "tkahng dataui-nestjs-crud",
+                      "url": "https://github.com/tkahng/dataui-nestjs-crud",
+                      "profile": "https://github.com/tkahng"
+                    },
+                    "stars": "0",
+                    "forks": {
+                      "count": 0,
+                      "repositories": []
+                    },
+                    "issues": "0",
+                    "pullRequests": "0",
+                    "createdAt": "Created December 7, 2023 09:47",
+                    "updatedAt": "Updated April 9, 2024 05:17"
+                  },
+                  {
+                    "repository": {
+                      "name": "SuzGori dataui-nestjs-crud",
+                      "url": "https://github.com/SuzGori/dataui-nestjs-crud",
+                      "profile": "https://github.com/SuzGori"
+                    },
+                    "stars": "0",
+                    "forks": {
+                      "count": 0,
+                      "repositories": []
+                    },
+                    "issues": "0",
+                    "pullRequests": "0",
+                    "createdAt": "Created July 13, 2023 20:26",
+                    "updatedAt": "Updated July 14, 2023 03:42"
+                  },
+                  {
+                    "repository": {
+                      "name": "rettechnologys nestjs-crud",
+                      "url": "https://github.com/rettechnologys/nestjs-crud",
+                      "profile": "https://github.com/rettechnologys"
+                    },
+                    "stars": "0",
+                    "forks": {
+                      "count": 0,
+                      "repositories": []
+                    },
+                    "issues": "0",
+                    "pullRequests": "0",
+                    "createdAt": "Created March 12, 2024 03:18",
+                    "updatedAt": "Updated March 22, 2024 09:26"
+                  },
+                  {
+                    "repository": {
+                      "name": "PavloNaumenko dataui-nestjs-crud",
+                      "url": "https://github.com/PavloNaumenko/dataui-nestjs-crud",
+                      "profile": "https://github.com/PavloNaumenko"
+                    },
+                    "stars": "0",
+                    "forks": {
+                      "count": 0,
+                      "repositories": []
+                    },
+                    "issues": "0",
+                    "pullRequests": "0",
+                    "createdAt": "Created January 26, 2024 02:17",
+                    "updatedAt": "Updated June 25, 2024 08:16"
+                  },
+                  {
+                    "repository": {
+                      "name": "mavric nestjs-crud",
+                      "url": "https://github.com/mavric/nestjs-crud",
+                      "profile": "https://github.com/mavric"
+                    },
+                    "stars": "0",
+                    "forks": {
+                      "count": 0,
+                      "repositories": []
+                    },
+                    "issues": "0",
+                    "pullRequests": "1",
+                    "createdAt": "Created May 22, 2024 01:12",
+                    "updatedAt": "Updated July 3, 2024 10:22"
+                  },
+                  {
+                    "repository": {
+                      "name": "LAB3DVLP nestjs-crud",
+                      "url": "https://github.com/LAB3DVLP/nestjs-crud",
+                      "profile": "https://github.com/LAB3DVLP"
+                    },
+                    "stars": "0",
+                    "forks": {
+                      "count": 0,
+                      "repositories": []
+                    },
+                    "issues": "0",
+                    "pullRequests": "0",
+                    "createdAt": "Created June 23, 2022 12:32",
+                    "updatedAt": "Updated December 2, 2023 18:16"
+                  },
+                  {
+                    "repository": {
+                      "name": "Kozikaza nestjsx-crud",
+                      "url": "https://github.com/Kozikaza/nestjsx-crud",
+                      "profile": "https://github.com/Kozikaza"
+                    },
+                    "stars": "0",
+                    "forks": {
+                      "count": 0,
+                      "repositories": []
+                    },
+                    "issues": "0",
+                    "pullRequests": "0",
+                    "createdAt": "Created August 17, 2022 06:39",
+                    "updatedAt": "Updated August 17, 2022 13:54"
+                  },
+                  {
+                    "repository": {
+                      "name": "Klucherev dataui-nestjs-crud",
+                      "url": "https://github.com/Klucherev/dataui-nestjs-crud",
+                      "profile": "https://github.com/Klucherev"
+                    },
+                    "stars": "0",
+                    "forks": {
+                      "count": 0,
+                      "repositories": []
+                    },
+                    "issues": "0",
+                    "pullRequests": "0",
+                    "createdAt": "Created February 25, 2024 22:46",
+                    "updatedAt": "Updated February 26, 2024 06:50"
+                  },
+                  {
+                    "repository": {
+                      "name": "its-dibo dataui-nestjs-crud-fork",
+                      "url": "https://github.com/its-dibo/dataui-nestjs-crud-fork",
+                      "profile": "https://github.com/its-dibo"
+                    },
+                    "stars": "0",
+                    "forks": {
+                      "count": 0,
+                      "repositories": []
+                    },
+                    "issues": "0",
+                    "pullRequests": "1",
+                    "createdAt": "Created June 13, 2024 10:21",
+                    "updatedAt": "Updated June 19, 2024 19:32"
+                  },
+                  {
+                    "repository": {
+                      "name": "Georgageo dataui-nestjs-crud",
+                      "url": "https://github.com/Georgageo/dataui-nestjs-crud",
+                      "profile": "https://github.com/Georgageo"
+                    },
+                    "stars": "0",
+                    "forks": {
+                      "count": 0,
+                      "repositories": []
+                    },
+                    "issues": "0",
+                    "pullRequests": "0",
+                    "createdAt": "Created April 8, 2024 11:30",
+                    "updatedAt": "Updated April 11, 2024 10:20"
+                  },
+                  {
+                    "repository": {
+                      "name": "gantispam crud",
+                      "url": "https://github.com/gantispam/crud",
+                      "profile": "https://github.com/gantispam"
+                    },
+                    "stars": "0",
+                    "forks": {
+                      "count": 0,
+                      "repositories": []
+                    },
+                    "issues": "0",
+                    "pullRequests": "0",
+                    "createdAt": "Created March 13, 2023 06:45",
+                    "updatedAt": "Updated March 15, 2023 11:04"
+                  },
+                  {
+                    "repository": {
+                      "name": "dfliess dataui-nestjs-crud",
+                      "url": "https://github.com/dfliess/dataui-nestjs-crud",
+                      "profile": "https://github.com/dfliess"
+                    },
+                    "stars": "0",
+                    "forks": {
+                      "count": 0,
+                      "repositories": []
+                    },
+                    "issues": "0",
+                    "pullRequests": "0",
+                    "createdAt": "Created May 1, 2024 09:45",
+                    "updatedAt": "Updated May 1, 2024 19:25"
+                  },
+                  {
+                    "repository": {
+                      "name": "danyalutsevich dataui-nestjs-crud",
+                      "url": "https://github.com/danyalutsevich/dataui-nestjs-crud",
+                      "profile": "https://github.com/danyalutsevich"
+                    },
+                    "stars": "0",
+                    "forks": {
+                      "count": 0,
+                      "repositories": []
+                    },
+                    "issues": "0",
+                    "pullRequests": "0",
+                    "createdAt": "Created April 19, 2024 04:53",
+                    "updatedAt": "Updated April 30, 2024 07:19"
+                  },
+                  {
+                    "repository": {
+                      "name": "ckaeslin dataui-nestjs-crud",
+                      "url": "https://github.com/ckaeslin/dataui-nestjs-crud",
+                      "profile": "https://github.com/ckaeslin"
+                    },
+                    "stars": "0",
+                    "forks": {
+                      "count": 0,
+                      "repositories": []
+                    },
+                    "issues": "0",
+                    "pullRequests": "0",
+                    "createdAt": "Created June 21, 2023 23:14",
+                    "updatedAt": "Updated July 10, 2023 10:48"
+                  },
+                  {
+                    "repository": {
+                      "name": "afilp dataui-nestjs-crud",
+                      "url": "https://github.com/afilp/dataui-nestjs-crud",
+                      "profile": "https://github.com/afilp"
+                    },
+                    "stars": "0",
+                    "forks": {
+                      "count": 0,
+                      "repositories": []
+                    },
+                    "issues": "0",
+                    "pullRequests": "0",
+                    "createdAt": "Created October 31, 2023 10:25",
+                    "updatedAt": "Updated October 31, 2023 18:11"
+                  }
+                ]
+              },
+              "issues": "14",
+              "pullRequests": "2",
+              "createdAt": "Created June 15, 2022 02:11",
+              "updatedAt": "Updated June 29, 2024 08:38"
+            },
+            {
+              "repository": {
+                "name": "qpfmtlcp crud",
+                "url": "https://github.com/qpfmtlcp/crud",
+                "profile": "https://github.com/qpfmtlcp"
+              },
+              "stars": "0",
+              "forks": {
+                "count": 0,
+                "repositories": []
+              },
+              "issues": "0",
+              "pullRequests": "0",
+              "createdAt": "Created August 5, 2022 00:45",
+              "updatedAt": "Updated August 5, 2022 08:33"
+            }
+          ]
+        },
+        "issues": "8",
+        "pullRequests": "0",
+        "createdAt": "Created April 2, 2021 15:04",
+        "updatedAt": "Updated August 24, 2022 08:45"
+      },
+      {
+        "repository": {
+          "name": "klalex crud",
+          "url": "https://github.com/klalex/crud",
+          "profile": "https://github.com/klalex"
+        },
+        "stars": "1",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created November 3, 2020 04:12",
+        "updatedAt": "Updated December 18, 2023 06:01"
+      },
+      {
+        "repository": {
+          "name": "GuihaiHU crud",
+          "url": "https://github.com/GuihaiHU/crud",
+          "profile": "https://github.com/GuihaiHU"
+        },
+        "stars": "1",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "8",
+        "createdAt": "Created June 4, 2019 05:20",
+        "updatedAt": "Updated June 18, 2024 06:16"
+      },
+      {
+        "repository": {
+          "name": "letoche crud",
+          "url": "https://github.com/letoche/crud",
+          "profile": "https://github.com/letoche"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created December 29, 2018 14:35",
+        "updatedAt": "Updated August 24, 2022 13:25"
+      },
+      {
+        "repository": {
+          "name": "Nahsiv crud",
+          "url": "https://github.com/Nahsiv/crud",
+          "profile": "https://github.com/Nahsiv"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created March 17, 2024 12:10",
+        "updatedAt": "Updated March 17, 2024 19:32"
+      },
+      {
+        "repository": {
+          "name": "ngovanxuanduc crud",
+          "url": "https://github.com/ngovanxuanduc/crud",
+          "profile": "https://github.com/ngovanxuanduc"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created September 28, 2023 20:00",
+        "updatedAt": "Updated September 29, 2023 03:02"
+      },
+      {
+        "repository": {
+          "name": "nodejsuzz crud",
+          "url": "https://github.com/nodejsuzz/crud",
+          "profile": "https://github.com/nodejsuzz"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created December 5, 2022 22:50",
+        "updatedAt": "Updated December 6, 2022 06:52"
+      },
+      {
+        "repository": {
+          "name": "overphoenix nestjs-crud",
+          "url": "https://github.com/overphoenix/nestjs-crud",
+          "profile": "https://github.com/overphoenix"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created August 23, 2022 09:26",
+        "updatedAt": "Updated August 28, 2022 14:51"
+      },
+      {
+        "repository": {
+          "name": "qstyler nestjsx-crud",
+          "url": "https://github.com/qstyler/nestjsx-crud",
+          "profile": "https://github.com/qstyler"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created December 9, 2022 03:55",
+        "updatedAt": "Updated December 11, 2022 08:04"
+      },
+      {
+        "repository": {
+          "name": "rjpkuyper crud",
+          "url": "https://github.com/rjpkuyper/crud",
+          "profile": "https://github.com/rjpkuyper"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created September 17, 2022 04:49",
+        "updatedAt": "Updated September 17, 2022 11:58"
+      },
+      {
+        "repository": {
+          "name": "ruslanguns crud",
+          "url": "https://github.com/ruslanguns/crud",
+          "profile": "https://github.com/ruslanguns"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created March 25, 2020 10:32",
+        "updatedAt": "Updated April 4, 2023 00:07"
+      },
+      {
+        "repository": {
+          "name": "streetlogics nestjsx-crud",
+          "url": "https://github.com/streetlogics/nestjsx-crud",
+          "profile": "https://github.com/streetlogics"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created May 30, 2023 22:05",
+        "updatedAt": "Updated May 31, 2023 05:17"
+      },
+      {
+        "repository": {
+          "name": "TawandaMavondo crud",
+          "url": "https://github.com/TawandaMavondo/crud",
+          "profile": "https://github.com/TawandaMavondo"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "1",
+        "createdAt": "Created February 23, 2023 11:14",
+        "updatedAt": "Updated February 29, 2024 20:26"
+      },
+      {
+        "repository": {
+          "name": "vianneyb crud",
+          "url": "https://github.com/vianneyb/crud",
+          "profile": "https://github.com/vianneyb"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created July 26, 2022 23:28",
+        "updatedAt": "Updated July 27, 2022 15:56"
+      },
+      {
+        "repository": {
+          "name": "xTCry nestjs-crud",
+          "url": "https://github.com/xTCry/nestjs-crud",
+          "profile": "https://github.com/xTCry"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created October 27, 2022 15:19",
+        "updatedAt": "Updated December 3, 2022 10:50"
+      },
+      {
+        "repository": {
+          "name": "YUTONG773 crud",
+          "url": "https://github.com/YUTONG773/crud",
+          "profile": "https://github.com/YUTONG773"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "2",
+        "createdAt": "Created November 20, 2023 21:15",
+        "updatedAt": "Updated March 27, 2024 16:43"
+      },
+      {
+        "repository": {
+          "name": "zetti-caletti nestjsx_crud",
+          "url": "https://github.com/zetti-caletti/nestjsx_crud",
+          "profile": "https://github.com/zetti-caletti"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created October 13, 2022 12:11",
+        "updatedAt": "Updated October 13, 2022 19:38"
+      },
+      {
+        "repository": {
+          "name": "Korsisoft crud",
+          "url": "https://github.com/Korsisoft/crud",
+          "profile": "https://github.com/Korsisoft"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created March 11, 2022 10:33",
+        "updatedAt": "Updated July 20, 2022 23:45"
+      },
+      {
+        "repository": {
+          "name": "Kolobok12309 crud",
+          "url": "https://github.com/Kolobok12309/crud",
+          "profile": "https://github.com/Kolobok12309"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created April 5, 2024 09:12",
+        "updatedAt": "Updated April 5, 2024 16:14"
+      },
+      {
+        "repository": {
+          "name": "khalibloo nestjsx-crud",
+          "url": "https://github.com/khalibloo/nestjsx-crud",
+          "profile": "https://github.com/khalibloo"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created August 21, 2022 17:37",
+        "updatedAt": "Updated August 22, 2022 00:39"
+      },
+      {
+        "repository": {
+          "name": "kenneth-s crud",
+          "url": "https://github.com/kenneth-s/crud",
+          "profile": "https://github.com/kenneth-s"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created March 20, 2023 13:02",
+        "updatedAt": "Updated July 30, 2023 09:51"
+      },
+      {
+        "repository": {
+          "name": "katoyeung crud",
+          "url": "https://github.com/katoyeung/crud",
+          "profile": "https://github.com/katoyeung"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created April 17, 2023 02:50",
+        "updatedAt": "Updated April 17, 2023 17:16"
+      },
+      {
+        "repository": {
+          "name": "jokerslab nestjs-crud",
+          "url": "https://github.com/jokerslab/nestjs-crud",
+          "profile": "https://github.com/jokerslab"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created November 10, 2022 08:57",
+        "updatedAt": "Updated November 15, 2022 19:58"
+      },
+      {
+        "repository": {
+          "name": "jifeon crud",
+          "url": "https://github.com/jifeon/crud",
+          "profile": "https://github.com/jifeon"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created July 29, 2022 07:10",
+        "updatedAt": "Updated July 29, 2022 15:53"
+      },
+      {
+        "repository": {
+          "name": "indigolabsslo crud",
+          "url": "https://github.com/indigolabsslo/crud",
+          "profile": "https://github.com/indigolabsslo"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "1",
+        "createdAt": "Created November 13, 2023 13:23",
+        "updatedAt": "Updated December 7, 2023 14:00"
+      },
+      {
+        "repository": {
+          "name": "iMiebaka crud",
+          "url": "https://github.com/iMiebaka/crud",
+          "profile": "https://github.com/iMiebaka"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created June 22, 2023 07:12",
+        "updatedAt": "Updated June 22, 2023 14:14"
+      },
+      {
+        "repository": {
+          "name": "GhostWalkers crud",
+          "url": "https://github.com/GhostWalkers/crud",
+          "profile": "https://github.com/GhostWalkers"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created July 10, 2023 00:25",
+        "updatedAt": "Updated July 10, 2023 07:26"
+      },
+      {
+        "repository": {
+          "name": "emulienfou nestjsx-crud",
+          "url": "https://github.com/emulienfou/nestjsx-crud",
+          "profile": "https://github.com/emulienfou"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created December 11, 2023 12:49",
+        "updatedAt": "Updated January 9, 2024 20:37"
+      },
+      {
+        "repository": {
+          "name": "ekisstherain crud",
+          "url": "https://github.com/ekisstherain/crud",
+          "profile": "https://github.com/ekisstherain"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created November 25, 2022 00:04",
+        "updatedAt": "Updated May 7, 2023 08:53"
+      },
+      {
+        "repository": {
+          "name": "conceptadev nestjsx-crud",
+          "url": "https://github.com/conceptadev/nestjsx-crud",
+          "profile": "https://github.com/conceptadev"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created July 25, 2022 08:34",
+        "updatedAt": "Updated October 4, 2023 19:12"
+      },
+      {
+        "repository": {
+          "name": "codemile crud",
+          "url": "https://github.com/codemile/crud",
+          "profile": "https://github.com/codemile"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created July 15, 2023 07:17",
+        "updatedAt": "Updated July 15, 2023 14:17"
+      },
+      {
+        "repository": {
+          "name": "baskar007 nestjsx-crud",
+          "url": "https://github.com/baskar007/nestjsx-crud",
+          "profile": "https://github.com/baskar007"
+        },
+        "stars": "0",
+        "forks": {
+          "count": 0,
+          "repositories": []
+        },
+        "issues": "0",
+        "pullRequests": "0",
+        "createdAt": "Created February 27, 2024 20:38",
+        "updatedAt": "Updated February 28, 2024 07:40"
+      }
+    ]
+  }
+}
